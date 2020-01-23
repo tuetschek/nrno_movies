@@ -1,0 +1,4 @@
+ner
+numpy
+git+https://github.com/tuetschek/futil.git
+
